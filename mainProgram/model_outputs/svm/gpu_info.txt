@@ -1,0 +1,3 @@
+GPU Device: NVIDIA GeForce RTX 4060 Ti
+GPU Memory Allocated: 0.00 MB
+GPU Memory Cached: 22.00 MB
