@@ -2,8 +2,8 @@
 /gradient_boosting_model/data
 /knn_model
 /knn_model/data
-/logistic_regression_model
 /logistic_regression_model/data
+/random_forest_model
 /random_forest_model/data
 /svm_model
 /svm_model/data
